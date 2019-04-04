@@ -1,0 +1,33 @@
+[2019-02-05T20:43:39,765][INFO ][o.e.n.Node               ] [node-1] initializing ...
+[2019-02-05T20:43:40,251][INFO ][o.e.e.NodeEnvironment    ] [node-1] using [1] data paths, mounts [[/ (/dev/disk0s2)]], net usable_space [800.3gb], net total_space [930.7gb], types [hfs]
+[2019-02-05T20:43:40,252][INFO ][o.e.e.NodeEnvironment    ] [node-1] heap size [1.7gb], compressed ordinary object pointers [true]
+[2019-02-05T20:43:40,263][INFO ][o.e.n.Node               ] [node-1] node name [node-1], node ID [0OI9rTywSoG7k1Yy7zrU8w]
+[2019-02-05T20:43:40,263][INFO ][o.e.n.Node               ] [node-1] version[6.1.0-SNAPSHOT], pid[770], build[Unknown/Unknown], OS[Mac OS X/10.13.4/x86_64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_151/25.151-b12]
+[2019-02-05T20:43:40,264][INFO ][o.e.n.Node               ] [node-1] JVM arguments [-agentlib:jdwp=transport=dt_socket,address=127.0.0.1:49372,suspend=y,server=n, -javaagent:/Users/zscomehuyue/Library/Caches/IntelliJIdea2017.2/groovyHotSwap/gragent.jar, -Dfile.encoding=UTF-8]
+[2019-02-05T20:43:40,264][WARN ][o.e.n.Node               ] [node-1] version [6.1.0-SNAPSHOT] is a pre-release version of Elasticsearch and is not suitable for production
+[2019-02-05T20:43:49,621][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [aggs-matrix-stats]
+[2019-02-05T20:43:49,621][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [analysis-common]
+[2019-02-05T20:43:49,621][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [ingest-common]
+[2019-02-05T20:43:49,621][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [lang-expression]
+[2019-02-05T20:43:49,621][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [lang-mustache]
+[2019-02-05T20:43:49,621][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [lang-painless]
+[2019-02-05T20:43:49,621][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [mapper-extras]
+[2019-02-05T20:43:49,621][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [parent-join]
+[2019-02-05T20:43:49,621][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [percolator]
+[2019-02-05T20:43:49,622][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [reindex]
+[2019-02-05T20:43:49,622][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [repository-url]
+[2019-02-05T20:43:49,622][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [transport-netty4]
+[2019-02-05T20:43:49,622][INFO ][o.e.p.PluginsService     ] [node-1] loaded module [tribe]
+[2019-02-05T20:43:49,622][INFO ][o.e.p.PluginsService     ] [node-1] no plugins loaded
+[2019-02-05T20:43:50,441][INFO ][i.n.u.i.PlatformDependent] Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+[2019-02-05T20:43:58,119][INFO ][o.e.d.DiscoveryModule    ] [node-1] using discovery type [zen]
+[2019-02-05T20:44:01,013][INFO ][o.e.n.Node               ] [node-1] initialized
+[2019-02-05T20:44:01,013][INFO ][o.e.n.Node               ] [node-1] starting ...
+[2019-02-05T20:44:01,440][INFO ][o.e.t.TransportService   ] [node-1] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
+[2019-02-05T20:44:01,498][WARN ][o.e.b.BootstrapChecks    ] [node-1] initial heap size [134217728] not equal to maximum heap size [2147483648]; this can cause resize pauses and prevents mlockall from locking the entire heap
+[2019-02-05T20:44:04,766][INFO ][o.e.c.s.MasterService    ] [node-1] zen-disco-elected-as-master ([0] nodes joined), reason: new_master {node-1}{0OI9rTywSoG7k1Yy7zrU8w}{Z2Y9Rcj8QJCtpkRYRezx_A}{127.0.0.1}{127.0.0.1:9300}
+[2019-02-05T20:44:04,783][INFO ][o.e.c.s.ClusterApplierService] [node-1] new_master {node-1}{0OI9rTywSoG7k1Yy7zrU8w}{Z2Y9Rcj8QJCtpkRYRezx_A}{127.0.0.1}{127.0.0.1:9300}, reason: apply cluster state (from master [master {node-1}{0OI9rTywSoG7k1Yy7zrU8w}{Z2Y9Rcj8QJCtpkRYRezx_A}{127.0.0.1}{127.0.0.1:9300} committed version [1] source [zen-disco-elected-as-master ([0] nodes joined)]])
+[2019-02-05T20:44:04,856][INFO ][o.e.h.n.Netty4HttpServerTransport] [node-1] publish_address {127.0.0.1:9200}, bound_addresses {[fe80::1]:9200}, {[::1]:9200}, {127.0.0.1:9200}
+[2019-02-05T20:44:04,856][INFO ][o.e.n.Node               ] [node-1] started
+[2019-02-05T20:44:05,553][INFO ][o.e.g.GatewayService     ] [node-1] recovered [1] indices into cluster_state
+[2019-02-05T20:44:06,341][INFO ][o.e.c.r.a.AllocationService] [node-1] Cluster health status changed from [RED] to [GREEN] (reason: [shards started [[car][0]] ...]).

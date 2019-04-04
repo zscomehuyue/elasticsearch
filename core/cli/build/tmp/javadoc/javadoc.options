@@ -1,0 +1,13 @@
+-Xdoclint:all,-missing '-quiet'
+-classpath '/worker/workspace/es/e610/core/cli/build/classes/java/main:/worker/workspace/es/e610/core/cli/build/resources/main:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.2/98cafc6081d5632b61be2c9e60650b64ddbc637c/jopt-simple-5.0.2.jar'
+-d '/worker/workspace/es/e610/core/cli/build/docs/javadoc'
+-doctitle 'cli 6.1.0-SNAPSHOT API'
+-encoding 'UTF8'
+-quiet 
+-windowtitle 'cli 6.1.0-SNAPSHOT API'
+'/worker/workspace/es/e610/core/cli/src/main/java/org/elasticsearch/cli/Command.java'
+'/worker/workspace/es/e610/core/cli/src/main/java/org/elasticsearch/cli/ExitCodes.java'
+'/worker/workspace/es/e610/core/cli/src/main/java/org/elasticsearch/cli/MultiCommand.java'
+'/worker/workspace/es/e610/core/cli/src/main/java/org/elasticsearch/cli/SuppressForbidden.java'
+'/worker/workspace/es/e610/core/cli/src/main/java/org/elasticsearch/cli/Terminal.java'
+'/worker/workspace/es/e610/core/cli/src/main/java/org/elasticsearch/cli/UserException.java'

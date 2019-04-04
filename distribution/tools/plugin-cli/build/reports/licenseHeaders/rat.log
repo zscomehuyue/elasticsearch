@@ -1,0 +1,46 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-02-03T04:20:43+08:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 9
+
+Apache Licensed: 9
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /worker/workspace/es/e610/distribution/tools/plugin-cli/src/main/java/org/elasticsearch/plugins/InstallPluginCommand.java
+  AL    /worker/workspace/es/e610/distribution/tools/plugin-cli/src/main/java/org/elasticsearch/plugins/ListPluginsCommand.java
+  AL    /worker/workspace/es/e610/distribution/tools/plugin-cli/src/main/java/org/elasticsearch/plugins/PluginCli.java
+  AL    /worker/workspace/es/e610/distribution/tools/plugin-cli/src/main/java/org/elasticsearch/plugins/ProgressInputStream.java
+  AL    /worker/workspace/es/e610/distribution/tools/plugin-cli/src/main/java/org/elasticsearch/plugins/RemovePluginCommand.java
+  AL    /worker/workspace/es/e610/distribution/tools/plugin-cli/src/test/java/org/elasticsearch/plugins/InstallPluginCommandTests.java
+  AL    /worker/workspace/es/e610/distribution/tools/plugin-cli/src/test/java/org/elasticsearch/plugins/ListPluginsCommandTests.java
+  AL    /worker/workspace/es/e610/distribution/tools/plugin-cli/src/test/java/org/elasticsearch/plugins/ProgressInputStreamTests.java
+  AL    /worker/workspace/es/e610/distribution/tools/plugin-cli/src/test/java/org/elasticsearch/plugins/RemovePluginCommandTests.java
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 

@@ -1,0 +1,2 @@
+org.elasticsearch.plugins.InstallPluginCommandTests
+org.elasticsearch.plugins.RemovePluginCommandTests

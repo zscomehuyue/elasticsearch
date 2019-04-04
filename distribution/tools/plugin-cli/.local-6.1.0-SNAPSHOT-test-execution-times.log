@@ -1,0 +1,4 @@
+org.elasticsearch.plugins.InstallPluginCommandTests=6117
+org.elasticsearch.plugins.ListPluginsCommandTests=3200
+org.elasticsearch.plugins.ProgressInputStreamTests=2556
+org.elasticsearch.plugins.RemovePluginCommandTests=91

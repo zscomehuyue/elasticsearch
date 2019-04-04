@@ -1,0 +1,549 @@
+[
+ "BOOTSTRAP",
+ {
+  "defaultCharset": "UTF-8",
+  "pidString": "2968@zscomehuyues-iMac.local",
+  "systemProperties": {
+   "awt.toolkit": "sun.lwawt.macosx.LWCToolkit",
+   "file.encoding": "UTF-8",
+   "file.encoding.pkg": "sun.io",
+   "file.separator": "/",
+   "ftp.nonProxyHosts": "local|*.local|169.254/16|*.169.254/16",
+   "gopherProxySet": "false",
+   "http.nonProxyHosts": "local|*.local|169.254/16|*.169.254/16",
+   "java.awt.graphicsenv": "sun.awt.CGraphicsEnvironment",
+   "java.awt.headless": "true",
+   "java.awt.printerjob": "sun.lwawt.macosx.CPrinterJob",
+   "java.class.path": "/worker/workspace/es/e610/distribution/tools/plugin-cli/build/classes/java/test:/worker/workspace/es/e610/distribution/tools/plugin-cli/build/classes/java/main:/worker/workspace/es/e610/test/framework/build/distributions/framework-6.1.0-SNAPSHOT.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/com.google.jimfs/jimfs/1.1/8fbd0579dc68aba6186935cc1bee21d2f3e7ec1c/jimfs-1.1.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar:/worker/workspace/es/e610/core/build/distributions/elasticsearch-6.1.0-SNAPSHOT.jar:/worker/workspace/es/e610/core/cli/build/distributions/elasticsearch-cli-6.1.0-SNAPSHOT.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/7.1.0/dd291b7ebf4845483895724d2562214dc7f40049/lucene-core-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-analyzers-common/7.1.0/a508bf6b580471ee568dab7d2acfedfa5aadce70/lucene-analyzers-common-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-backward-codecs/7.1.0/804a7ce82bba3d085733486bfde4846ecb77ce01/lucene-backward-codecs-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-grouping/7.1.0/732d16c16421fca058a2a07ca4081ec7696365b/lucene-grouping-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-highlighter/7.1.0/596550daabae765ad685112e0fe7c4f0fdfccb3f/lucene-highlighter-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-join/7.1.0/5f26dd64c195258a81175772ef7fe105e7d60a26/lucene-join-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-memory/7.1.0/3ef64c58d0c09ca40d848efa96b585b7476271f2/lucene-memory-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-misc/7.1.0/1496ee5fa62206ee5ddf51042a340d6a9ee3b5de/lucene-misc-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-queries/7.1.0/1554920ab207a3245fa408d022a5c90ad3a1fea3/lucene-queries-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-queryparser/7.1.0/5767c15c5ee97926829fd8a4337e434fa95f3c08/lucene-queryparser-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-sandbox/7.1.0/691f7b9ac05f3ad2ac7e80733ef70247904bd3ae/lucene-sandbox-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-spatial/7.1.0/6c64c04d802badb800516a8a574cb993929c3805/lucene-spatial-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-spatial-extras/7.1.0/3f1bc1aada8f06b176b782da24b9d7ad9641c41a/lucene-spatial-extras-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-spatial3d/7.1.0/8ded650aed23efb775f17be496e3e3870214e23b/lucene-spatial3d-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-suggest/7.1.0/8d0ed1589ebdccf34e888c6efc0134a13a238c85/lucene-suggest-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.elasticsearch/securesm/1.2/4c28f5b634497d64b727961430a516f351a099d5/securesm-1.2.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/com.carrotsearch/hppc/0.7.1/8b5057f74ea378c0150a1860874a3ebdcb713767/hppc-0.7.1.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/joda-time/joda-time/2.9.5/5f01da7306363fad2028b916f3eab926262de928/joda-time-2.9.5.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.17/7a27ea250c5130b2922b86dea63cbb1cc10a660c/snakeyaml-1.17.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.10/eb21a035c66ad307e66ec8fce37f5d50fd62d039/jackson-core-2.8.10.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-smile/2.8.10/e853081fadaad3e98ed801937acc3d8f77580686/jackson-dataformat-smile-2.8.10.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.8.10/1e08caf1d787c825307d8cc6362452086020d853/jackson-dataformat-yaml-2.8.10.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/2.8.10/1c58cc9313ddf19f0900cd61ed044874278ce320/jackson-dataformat-cbor-2.8.10.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/com.tdunning/t-digest/3.0/84ccf145ac2215e6bfa63baa3101c0af41017cfc/t-digest-3.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.hdrhistogram/HdrHistogram/2.1.9/e4631ce165eb400edecfa32e03d3f1be53dee754/HdrHistogram-2.1.9.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.locationtech.spatial4j/spatial4j/0.6/21b15310bddcfd8c72611c180f20cf23279809a3/spatial4j-0.6.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/com.vividsolutions/jts/1.13/3ccfb9b60f04d71add996a666ceb8902904fd805/jts-1.13.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.9.1/7a2999229464e7a324aa503c0a52ec0f05efe7bd/log4j-api-2.9.1.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.9.1/c041978c686866ee8534f538c6220238db3bb6be/log4j-core-2.9.1.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-1.2-api/2.9.1/894f96d677880d4ab834a1356f62b875e579caaa/log4j-1.2-api-2.9.1.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.elasticsearch/jna/4.4.0-1/c9dfcec6f07ee4b1d7a6c09a7eaa9dd4fb6d2c79/jna-4.4.0-1.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.2/98cafc6081d5632b61be2c9e60650b64ddbc637c/jopt-simple-5.0.2.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/com.carrotsearch.randomizedtesting/randomizedtesting-runner/2.5.2/91f3284993b44dcb2f003b5f28617abba13971d2/randomizedtesting-runner-2.5.2.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.hamcrest/hamcrest-all/1.3/63a21ebc981131004ad02e0434e799fd7f3a8d5a/hamcrest-all-1.3.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-test-framework/7.1.0/12c68e1b8cb2e095a8e1d200ebd5efe35751a015/lucene-test-framework-7.1.0.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.lucene/lucene-codecs/7.1.0/b487621541f5a17946cf1ed634e5f48c802c6d28/lucene-codecs-7.1.0.jar:/worker/workspace/es/e610/client/rest/build/distributions/elasticsearch-rest-client-6.1.0-SNAPSHOT.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/733db77aa8d9b2d68015189df76ab06304406e50/httpclient-4.5.2.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.5/e7501a1b34325abb00d17dde96150604a0658b54/httpcore-4.4.5.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.elasticsearch/securemock/1.2/98201d4ad5ac93f6b415ae9172d52b5e7cda490e/securemock-1.2.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.elasticsearch/mocksocket/1.2/190ad3f42fd6ab7367bae0c0e14d1dc4e4a3c361/mocksocket-1.2.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.httpcomponents/httpasyncclient/4.1.2/95aa3e6fb520191a0970a73cf09f62948ee614be/httpasyncclient-4.1.2.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.4.5/f4be009e7505f6ceddf21e7960c759f413f15056/httpcore-nio-4.4.5.jar:/worker/java/gradle-4.3.1/caches/modules-2/files-2.1/com.carrotsearch.randomizedtesting/junit4-ant/2.5.2/b8f91682cfeb8f9196aad56ace9c9a13330acef6/junit4-ant-2.5.2.jar",
+   "java.class.version": "52.0",
+   "java.endorsed.dirs": "/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed",
+   "java.ext.dirs": "/Users/zscomehuyue/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java",
+   "java.home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre",
+   "java.io.tmpdir": "./temp",
+   "java.library.path": "/Users/zscomehuyue/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.",
+   "java.runtime.name": "Java(TM) SE Runtime Environment",
+   "java.runtime.version": "1.8.0_151-b12",
+   "java.specification.name": "Java Platform API Specification",
+   "java.specification.vendor": "Oracle Corporation",
+   "java.specification.version": "1.8",
+   "java.vendor": "Oracle Corporation",
+   "java.vendor.url": "http://java.oracle.com/",
+   "java.vendor.url.bug": "http://bugreport.sun.com/bugreport/",
+   "java.version": "1.8.0_151",
+   "java.vm.info": "mixed mode",
+   "java.vm.name": "Java HotSpot(TM) 64-Bit Server VM",
+   "java.vm.specification.name": "Java Virtual Machine Specification",
+   "java.vm.specification.vendor": "Oracle Corporation",
+   "java.vm.specification.version": "1.8",
+   "java.vm.vendor": "Oracle Corporation",
+   "java.vm.version": "25.151-b12",
+   "jna.nosys": "true",
+   "junit4.childvm.count": "3",
+   "junit4.childvm.cwd": "/worker/workspace/es/e610/distribution/tools/plugin-cli/build/testrun/test/J1",
+   "junit4.childvm.id": "1",
+   "junit4.memory.total": "514850816",
+   "junit4.pidString": "2968@zscomehuyues-iMac.local",
+   "junit4.processors": "4",
+   "line.separator": "\n",
+   "os.arch": "x86_64",
+   "os.name": "Mac OS X",
+   "os.version": "10.13.4",
+   "path.separator": ":",
+   "socksNonProxyHosts": "local|*.local|169.254/16|*.169.254/16",
+   "sun.arch.data.model": "64",
+   "sun.boot.class.path": "/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes",
+   "sun.boot.library.path": "/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib",
+   "sun.cpu.endian": "little",
+   "sun.cpu.isalist": "",
+   "sun.io.unicode.encoding": "UnicodeBig",
+   "sun.java.command": "com.carrotsearch.ant.tasks.junit4.slave.SlaveMainSafe -eventsfile /worker/workspace/es/e610/distribution/tools/plugin-cli/build/testrun/test/temp/junit4-J1-20190203_042044_2004040225283246081927.events @/worker/workspace/es/e610/distribution/tools/plugin-cli/build/testrun/test/temp/junit4-J1-20190203_042044_2006076776730688559371.suites -stdin",
+   "sun.java.launcher": "SUN_STANDARD",
+   "sun.jnu.encoding": "UTF-8",
+   "sun.management.compiler": "HotSpot 64-Bit Tiered Compilers",
+   "sun.os.patch.level": "unknown",
+   "tests.artifact": "plugin-cli",
+   "tests.gradle": "true",
+   "tests.ifNoTests": "fail",
+   "tests.logger.level": "WARN",
+   "tests.prefix": "tests",
+   "tests.security.manager": "false",
+   "tests.seed": "9095B484247F1010",
+   "tests.task": ":distribution:tools:plugin-cli:test",
+   "user.country": "CN",
+   "user.dir": "/worker/workspace/es/e610/distribution/tools/plugin-cli/build/testrun/test/J1",
+   "user.home": "/Users/zscomehuyue",
+   "user.language": "zh",
+   "user.name": "zscomehuyue",
+   "user.timezone": ""
+  }
+ }
+]
+
+[
+ "SUITE_STARTED",
+ {
+  "description": {
+   "id": "ID#org.elasticsearch.plugins.ListPluginsCommandTests",
+   "displayName": "org.elasticsearch.plugins.ListPluginsCommandTests",
+   "methodName": null,
+   "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+   "children": [
+    {
+     "id": "ID#testPluginWithoutVerboseMultiplePlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testPluginWithoutVerboseMultiplePlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testPluginWithoutVerboseMultiplePlugins",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    },
+    {
+     "id": "ID#testPluginWithVerbose(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testPluginWithVerbose(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testPluginWithVerbose",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    },
+    {
+     "id": "ID#testPluginWithVerboseMultiplePlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testPluginWithVerboseMultiplePlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testPluginWithVerboseMultiplePlugins",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    },
+    {
+     "id": "ID#testPluginsDirMissing(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testPluginsDirMissing(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testPluginsDirMissing",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    },
+    {
+     "id": "ID#testPluginWithoutDescriptorFile(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testPluginWithoutDescriptorFile(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testPluginWithoutDescriptorFile",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    },
+    {
+     "id": "ID#testNoPlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testNoPlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testNoPlugins",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    },
+    {
+     "id": "ID#testPluginWithNativeController(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testPluginWithNativeController(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testPluginWithNativeController",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    },
+    {
+     "id": "ID#testPluginWithWrongDescriptorFile(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testPluginWithWrongDescriptorFile(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testPluginWithWrongDescriptorFile",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    },
+    {
+     "id": "ID#testOnePlugin(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testOnePlugin(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testOnePlugin",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    },
+    {
+     "id": "ID#testTwoPlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testTwoPlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testTwoPlugins",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    },
+    {
+     "id": "ID#testPluginWithRequiresKeystore(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testPluginWithRequiresKeystore(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testPluginWithRequiresKeystore",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    },
+    {
+     "id": "ID#testExistingIncompatiblePlugin(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "displayName": "testExistingIncompatiblePlugin(org.elasticsearch.plugins.ListPluginsCommandTests)",
+     "methodName": "testExistingIncompatiblePlugin",
+     "className": "org.elasticsearch.plugins.ListPluginsCommandTests",
+     "children": []
+    }
+   ]
+  },
+  "startTimestamp": 1549138845405
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T04:20:46,727][WARN ][o.e.b.JNANatives         ] Unable to lock JVM Memory: error=78, reason=Function not implemented%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T04:20:46,734][WARN ][o.e.b.JNANatives         ] This can result in part of the JVM being swapped out.%0A"
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testPluginWithoutVerboseMultiplePlugins(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:47,568][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithoutVerboseMultiplePlugins]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,278][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithoutVerboseMultiplePlugins]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testPluginWithoutVerboseMultiplePlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138847385,
+  "executionTime": 960
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testPluginWithVerbose(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,400][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithVerbose]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,406][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithVerbose]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testPluginWithVerbose(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138848345,
+  "executionTime": 61
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testPluginWithVerboseMultiplePlugins(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,409][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithVerboseMultiplePlugins]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,419][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithVerboseMultiplePlugins]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testPluginWithVerboseMultiplePlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138848406,
+  "executionTime": 13
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testPluginsDirMissing(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,421][INFO ][o.e.p.ListPluginsCommandTests] [testPluginsDirMissing]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,428][INFO ][o.e.p.ListPluginsCommandTests] [testPluginsDirMissing]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testPluginsDirMissing(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138848419,
+  "executionTime": 9
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testPluginWithoutDescriptorFile(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,442][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithoutDescriptorFile]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,449][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithoutDescriptorFile]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testPluginWithoutDescriptorFile(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138848428,
+  "executionTime": 21
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testNoPlugins(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,454][INFO ][o.e.p.ListPluginsCommandTests] [testNoPlugins]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,470][INFO ][o.e.p.ListPluginsCommandTests] [testNoPlugins]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testNoPlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138848450,
+  "executionTime": 21
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testPluginWithNativeController(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,474][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithNativeController]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,482][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithNativeController]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testPluginWithNativeController(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138848471,
+  "executionTime": 12
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testPluginWithWrongDescriptorFile(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,486][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithWrongDescriptorFile]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,496][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithWrongDescriptorFile]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testPluginWithWrongDescriptorFile(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138848483,
+  "executionTime": 13
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testOnePlugin(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,501][INFO ][o.e.p.ListPluginsCommandTests] [testOnePlugin]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,510][INFO ][o.e.p.ListPluginsCommandTests] [testOnePlugin]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testOnePlugin(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138848496,
+  "executionTime": 16
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testTwoPlugins(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,515][INFO ][o.e.p.ListPluginsCommandTests] [testTwoPlugins]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,521][INFO ][o.e.p.ListPluginsCommandTests] [testTwoPlugins]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testTwoPlugins(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138848513,
+  "executionTime": 8
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testPluginWithRequiresKeystore(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,523][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithRequiresKeystore]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,557][INFO ][o.e.p.ListPluginsCommandTests] [testPluginWithRequiresKeystore]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testPluginWithRequiresKeystore(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138848521,
+  "executionTime": 36
+ }
+]
+
+[
+ "TEST_STARTED",
+ "ID#testExistingIncompatiblePlugin(org.elasticsearch.plugins.ListPluginsCommandTests)"
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,560][INFO ][o.e.p.ListPluginsCommandTests] [testExistingIncompatiblePlugin]: before test%0A"
+ }
+]
+
+[
+ "APPEND_STDOUT",
+ {
+  "chunk": "[2019-02-03T02:20:48,573][INFO ][o.e.p.ListPluginsCommandTests] [testExistingIncompatiblePlugin]: after test%0A"
+ }
+]
+
+[
+ "TEST_FINISHED",
+ {
+  "description": "ID#testExistingIncompatiblePlugin(org.elasticsearch.plugins.ListPluginsCommandTests)",
+  "startTimestamp": 1549138848558,
+  "executionTime": 16
+ }
+]
+
+[
+ "SUITE_COMPLETED",
+ {
+  "description": "ID#org.elasticsearch.plugins.ListPluginsCommandTests",
+  "startTimestamp": 1549138845405,
+  "executionTime": 3200
+ }
+]
+
+[
+ "IDLE",
+ {}
+]
+
+[
+ "QUIT",
+ {}
+]
+

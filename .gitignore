@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/*
+*.iml
+target/*
+*.ipr
+*.iws 
+new-polymerize.iml      
+new-polymerize.ipr      
+new-polymerize.iws 

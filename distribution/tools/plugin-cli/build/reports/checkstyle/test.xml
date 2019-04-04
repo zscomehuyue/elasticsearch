@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.5">
+<file name="/worker/workspace/es/e610/distribution/tools/plugin-cli/src/test/java/org/elasticsearch/plugins/InstallPluginCommandTests.java">
+</file>
+<file name="/worker/workspace/es/e610/distribution/tools/plugin-cli/src/test/java/org/elasticsearch/plugins/ListPluginsCommandTests.java">
+</file>
+<file name="/worker/workspace/es/e610/distribution/tools/plugin-cli/src/test/java/org/elasticsearch/plugins/ProgressInputStreamTests.java">
+</file>
+<file name="/worker/workspace/es/e610/distribution/tools/plugin-cli/src/test/java/org/elasticsearch/plugins/RemovePluginCommandTests.java">
+</file>
+</checkstyle>
